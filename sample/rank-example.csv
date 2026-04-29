@@ -1,0 +1,4 @@
+rank,company,role,location,url,archetype,score,recommendation,key_reason,main_risk,authorization_note
+1,Example Analytics Co,Data Analyst,,https://example.com/data-analyst,Data Analyst / BI Analyst,4.3,APPLY,Archetype fit: Data Analyst / BI Analyst,No major early red flag found,No obvious early authorization blocker
+2,Example Product Co,Product Analyst,,https://example.com/product-analyst,Product / Growth / Customer Analytics,4.3,APPLY,Archetype fit: Product / Growth / Customer Analytics,No major early red flag found,No obvious early authorization blocker
+3,Example AI Co,Senior Data Scientist,,https://example.com/senior-data-scientist,Applied Data Scientist / ML Analyst,3.44,MAYBE,Archetype fit: Applied Data Scientist / ML Analyst,Some seniority stretch,No obvious early authorization blocker
